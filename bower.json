@@ -1,0 +1,24 @@
+{
+  "name": "webpack-boilerplate",
+  "description": "A Webpack Boilerplate with HBS and SASS",
+  "main": "",
+  "authors": [
+    "Gokul Raghu M"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webpack",
+    "handlebars",
+    "sass"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

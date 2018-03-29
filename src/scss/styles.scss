@@ -1,0 +1,9 @@
+@import 'parts/reset.scss';
+@import 'parts/font.scss';
+@import 'parts/layout.scss';
+// slick fix
+@import '~slick-carousel/slick/slick';
+// @import '../../node_modules/slick-carousel/slick/slick-theme';
+
+*{box-sizing: border-box;}
+.init-slick{max-width: 500px;}
